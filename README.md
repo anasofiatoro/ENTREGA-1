@@ -1,5 +1,4 @@
 # Competencia-Kaggle
-# Competencia-Kaggle
 
 [![universidad-de-antioquia-logo-5-E9-B72-BD6-F-seeklogo-com.png](https://i.postimg.cc/8PtZrhPG/universidad-de-antioquia-logo-5-E9-B72-BD6-F-seeklogo-com.png)](https://postimg.cc/tYn3Knxv)
 [![Kaggle-logo.png](https://i.postimg.cc/TwMzHrDS/Kaggle-logo.png)](https://postimg.cc/GBKg4TzJ)
